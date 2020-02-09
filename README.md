@@ -2,6 +2,11 @@
 
 > A Vue.js project
 
+
+## 预览页
+
+>  https://volodya-01.github.io/vue_canvas_takephotosliving_preview/
+
 ## Build Setup
 
 ``` bash
